@@ -6,10 +6,10 @@
     <meta name="keywords" content="immaculata, ics2o" />
     <meta name="author" content="Niko" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="apple-touch-icon" sizes="180x180" href="./favf/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="./favf/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="./favf/favicon-16x16.png" />
-    <link rel="manifest" href="./favf/site.webmanifest" />
+    <link rel="apple-touch-icon" sizes="180x180" href="./favfolder/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./favfolder/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favfolder/favicon-16x16.png" />
+    <link rel="manifest" href="./favfolder/site.webmanifest" />
     <link rel="stylesheet" href="./css/style.css" />
     <title>Museum Admission</title>
   </head>
