@@ -1,4 +1,60 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
-* This file contains the CSS for index.html
+/* Created by: Niko
+* Created on: april 2024
+* This file contains the CSS for index.php
 */
+
+body {
+  background-color: #e4dfbe;
+  font-size: 12pt;
+  font-family: Arial, Helvetica, sans-serif, Times, serif, Helvetica, sans-serif;
+  color: black;
+  line-height: 14pt;
+  padding-left: 5pt;
+  padding-right: 5pt;
+  padding-top: 5pt;
+  text-align: center;
+}
+
+h1 {
+  border-radius: 7px;
+  font: 20pt Arial;
+  font-weight: bold;
+  line-height: 20pt;
+  color: black;
+  padding: 20px;
+  margin-left: 600px;
+  margin-right: 600px;
+  background-color: #d6c7bd;
+}
+
+h3 {
+  font: 14pt Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  line-height: 16pt;
+  color: #000000;
+}
+
+div {
+  font-weight: bold;
+  color: #000000;
+  margin: 5px;
+  background-color: #c09c96;
+  margin-left: 700px;
+  margin-right: 700px;
+}
+
+#backdrop {
+  border-radius: 7px;
+  background-color: #cc9d94;
+  margin-left: 700px;
+  margin-right: 700px;
+  padding: 10px;
+}
+
+#age, #day {
+  text-decoration: none;
+  border-radius: 7px;
+  border-width: 2px;
+  height: 25px;
+  width: 150px;
+}
